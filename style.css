@@ -116,6 +116,8 @@ small {
 	float: left;
 	padding-right: 15px;
 	box-sizing: border-box;
+	padding-top: 10px;
+	
 }
 
 .centerColumn {
