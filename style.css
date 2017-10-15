@@ -116,6 +116,7 @@ small {
 	float: left;
 	padding-right: 15px;
 	box-sizing: border-box;
+	padding-top: 10px;
 }
 
 .centerColumn {
@@ -146,6 +147,7 @@ h4 {
 	float: left;
 	padding-left: 15px;
 	box-sizing: border-box;
+	padding-top: 10px;
 }
 
 .name a {
