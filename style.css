@@ -1,0 +1,196 @@
+.wrapper {
+	width: 909px;
+	height: 100%;
+	margin: 0 auto;
+}
+
+.contact-info {
+	float: left;
+	font-size: 18px;
+}
+
+.contact-info p{
+	margin: 5px;
+	color: #5e696d;
+}
+
+.pass {
+	color: #bfbfbf;
+}
+
+.key {
+	background: linear-gradient(to bottom, #1f6787, #0c3357);
+	border: none;
+	color: white;
+}
+
+.content {
+	overflow: hidden;
+}
+
+.callback-form {
+	float: right;
+	background: linear-gradient(to bottom, #1f6787, #0c3357);
+	border: 1px solid #596d80;
+	border-radius: 2px;
+}
+
+.callback-style {
+	margin: 3px;
+}
+
+.menu {
+	margin: 10px 40px;
+	float: left;
+}
+
+.menu li {
+	display: inline-block;
+	padding-right: 35px;
+}
+
+.menu li a {
+	text-decoration: none;
+	color: white;
+}
+
+.menu li a:hover {
+	background: #164e70;
+}
+
+.wrap-menu {
+	background: linear-gradient(to bottom, #4d5663, #010101);
+	border: 1px solid #2c345a;
+	border-radius: 4px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	overflow: hidden;
+}
+
+.wrap-basket p {
+	color: #8a9296;
+	margin-top: 5px;
+}
+
+.logoavtor {
+	vertical-align: middle;
+}
+
+span {
+	color: #127cc6;
+}
+
+.footer {
+	background: #213a4d;
+	text-align: center;
+	height: 100px;
+	bottom: 0;
+	overflow: hidden;
+}
+
+.foot-menu li{
+	margin-top: 13px;
+	margin-bottom: 15px;
+	list-style: none;
+	display: inline-block;
+	border-right: 1px solid white;
+	padding-right: 10px;
+    padding-left: 5px;
+}
+
+.foot-menu li:last-child {
+	border: none;
+}
+
+.foot-menu a{
+	text-decoration: none;
+	color: white;
+}
+
+small {
+	font-size: smaller;
+	color: #704543;
+}
+
+.leftColumn {
+	width: 20%;
+	float: left;
+	padding-right: 15px;
+	box-sizing: border-box;
+}
+
+.centerColumn {
+	width: 60%;
+	float: left;
+	background: linear-gradient(to bottom, #e5e7e8, #93a7b0);
+}
+
+.tires {
+	display: inline-block;
+	width: 125px;
+	margin-top: 10px;
+	margin-left: 40px;
+	text-align: center;
+}
+
+h4 {
+	color: #206988;
+}	
+	
+.price {
+	color: #114165;
+	font-weight: bold;
+}
+
+.rightColumn {
+	width: 20%;
+	float: left;
+	padding-left: 15px;
+	box-sizing: border-box;
+}
+
+.name a {
+	color: #465961;
+	list-style: circle;
+	text-decoration: none;
+}
+
+.name li {
+	list-style: circle;
+	margin-left: 40px;
+	padding-top: 5px;
+}
+
+.name li a:hover {
+	color: #0c3256;
+	text-decoration: underline;
+} 
+
+.brend li {
+	padding-top: 5px;
+}
+
+.leftmenu ul {
+	padding-bottom: 5px;
+}
+
+.rightmenu ul {
+	padding-bottom: 5px;
+}
+
+.border {
+	background: url(image/copy-7.png) 5px center no-repeat;
+	border: 1px solid #79878d;
+	border-radius: 10px;
+	font-size: 12px;
+	padding: 8px 0 8px 30px;
+	text-decoration: none;
+	color: #114165;
+	margin-bottom: 5px;
+}
+
+.picture {
+	background: white;
+	border: 1px solid #a9b3b6;
+	border-radius: 4px;
+}
+
